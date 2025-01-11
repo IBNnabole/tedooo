@@ -1,0 +1,16 @@
+
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "typeRoots": ["node_modules/@types"],
+    "types": ["node", "web-vitals"]
+  },
+  "include": ["src"]
+}
